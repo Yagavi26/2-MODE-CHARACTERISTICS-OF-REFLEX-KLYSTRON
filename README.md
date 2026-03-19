@@ -75,11 +75,7 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 7.	Beam knob should be completely in anticlockwise direction and repeller voltageknob should be completely clockwise direction.
 8.	Switch on the main supply and give some warm up time to get current / accuratereading.
 9.	Connections should be done properly.
-10.	Don’t see directly inside the waveguide.
-11.	After the completion of experiment, before leaving the bench switch off themains keep all the knobs in minimum position (i.e.) as those are in rule 2.
-12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
-13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
-
+10.	Don’t see directly inside the waveguide
 **Result:**
    	      Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
 
